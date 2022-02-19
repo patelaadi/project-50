@@ -1,0 +1,52 @@
+
+.header{
+  font-size: 30px;
+  font-family:sans-serif;
+  font-weight:400;
+  border-radius:10px;
+  background-color: #ff9900;
+  display:flex;
+  justify-content:center;
+
+  
+}
+
+body {
+  background-color: #aadeff;
+}
+
+.grid {
+  /* add correct code to place the grid elements 
+  one beside the other equally.   */
+
+  border:10px solid #ff9900;
+  
+  border-radius:10px;
+  font-family: sans-serif;
+  display:flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  text-align:center;
+}
+
+.grid img {
+  background-color: #aadeff;
+  border:10px solid #ff9900;
+  border-radius: 10px;
+  display:flex;
+  flex-wrap:wrap;
+  justify-content: space-evenly;
+  
+}
+.origami {
+  
+  border-radius: 20px;
+  
+  margin: 20px;
+
+  width: 310px;
+  font-family: fantasy;
+  display:flex;
+  flex-wrap:wrap;
+  justify-content: space-evenly;
+}
